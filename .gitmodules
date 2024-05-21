@@ -13,3 +13,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = git@github.com:Indistanced/rock-paper-scissors.git
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = git@github.com:Indistanced/etch-a-sketch.git
