@@ -16,3 +16,6 @@
 [submodule "etch-a-sketch"]
 	path = etch-a-sketch
 	url = git@github.com:Indistanced/etch-a-sketch.git
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:Indistanced/calculator.git
